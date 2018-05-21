@@ -24,3 +24,12 @@ E:\Personal\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug
 E:\Personal\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug\_01聊天室服务器.FormServer.resources
 E:\Personal\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug\_01聊天室服务器.Properties.Resources.resources
 E:\Personal\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug\01聊天室服务器.csproj.GenerateResource.Cache
+D:\Personal\QC\WinForm版聊天室复习Socket通信\01聊天室服务器\bin\Debug\01聊天室服务器.exe.config
+D:\Personal\QC\WinForm版聊天室复习Socket通信\01聊天室服务器\bin\Debug\01聊天室服务器.exe
+D:\Personal\QC\WinForm版聊天室复习Socket通信\01聊天室服务器\bin\Debug\01聊天室服务器.pdb
+D:\Personal\QC\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug\01聊天室服务器.csprojResolveAssemblyReference.cache
+D:\Personal\QC\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug\_01聊天室服务器.FormServer.resources
+D:\Personal\QC\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug\_01聊天室服务器.Properties.Resources.resources
+D:\Personal\QC\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug\01聊天室服务器.csproj.GenerateResource.Cache
+D:\Personal\QC\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug\01聊天室服务器.exe
+D:\Personal\QC\WinForm版聊天室复习Socket通信\01聊天室服务器\obj\Debug\01聊天室服务器.pdb

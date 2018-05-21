@@ -44,6 +44,7 @@
             this.txbIp = new System.Windows.Forms.TextBox();
             this.labIp = new System.Windows.Forms.Label();
             this.listOnline = new System.Windows.Forms.ListBox();
+            this.btnAction = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnExit
@@ -194,11 +195,21 @@
             this.listOnline.Size = new System.Drawing.Size(198, 412);
             this.listOnline.TabIndex = 30;
             // 
+            // btnAction
+            // 
+            this.btnAction.Location = new System.Drawing.Point(594, 8);
+            this.btnAction.Name = "btnAction";
+            this.btnAction.Size = new System.Drawing.Size(75, 23);
+            this.btnAction.TabIndex = 31;
+            this.btnAction.Text = "表情";
+            this.btnAction.UseVisualStyleBackColor = true;
+            // 
             // FormServer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(788, 540);
+            this.Controls.Add(this.btnAction);
             this.Controls.Add(this.listOnline);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnGroupSendMsg);
@@ -240,6 +251,7 @@
         internal System.Windows.Forms.TextBox txbIp;
         internal System.Windows.Forms.Label labIp;
         private System.Windows.Forms.ListBox listOnline;
+        private System.Windows.Forms.Button btnAction;
     }
 }
 
